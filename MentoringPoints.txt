@@ -1,0 +1,26 @@
+Mentoring —
+Locators to be used-id, name, classname, link text, partial link text. Explore Paths (absolute and Relative)
+1. Initialization 
+2. Open Chrome Browser 
+3. Navigate to google.com 
+4. Refresh 
+5. Maximize window 
+6. Delete All cookies 
+7. Implicitly wait timeout
+ 8. PageLoad timeout
+9. Get current URL 
+10. Verify the title of Google.com 
+11. Navigate to Macy's/Amazon/Costco/BestBuy/staples/... any application 
+12. Click on Sign in/login 
+13. insert email id or user id 
+14. click on forgot password using linktext/ partialLinktext 
+15. navigate to back 
+16. click on SignUp or create Account 
+17. Enter first name 
+18. Enter last name 
+19. Enter Password 
+20. Enter Confirm Password 
+21. Enter Date of Birth (Drop Down) Using Select Class 
+22. Select Radio button as Gender 
+23. click on Sign UP
+including Github.... cloning... pushing...
